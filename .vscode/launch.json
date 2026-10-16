@@ -1,0 +1,36 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "listadoContenido",
+            "request": "launch",
+            "mainClass": "listadoContenido",
+            "projectName": "Ej1-2_1f6f1940"
+        },
+        {
+            "type": "java",
+            "name": "listadoContenido",
+            "request": "launch",
+            "mainClass": "listadoContenido",
+            "projectName": "Ej1-1_1f6f193f"
+        },
+        {
+            "type": "java",
+            "name": "listadoContenido",
+            "request": "launch",
+            "mainClass": "listadoContenido",
+            "projectName": "Ej1-1 Listado de ficheros_b040d225"
+        },
+        {
+            "type": "java",
+            "name": "Ejecutar listadoContenido",
+            "request": "launch",
+            "mainClass": "listadoContenido",
+            "args": [
+                "."
+            ],
+            "cwd": "${workspaceFolder}/src"
+        }
+    ]
+}
